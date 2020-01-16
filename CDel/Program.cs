@@ -1,7 +1,7 @@
-﻿
+
 /* CDel program, deletes previous iterations of CREO files in a directory
  * (*.asm; *.prt; *.drw) feel free to rename the .exe to whatever you wish to use
- * Copyright(C) 2018  Ryan S. Hake, Burger & Brown Engineering Inc.
+ * Copyright(C) 2018  Ryan S. Hake
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
